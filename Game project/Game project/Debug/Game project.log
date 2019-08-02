@@ -1,0 +1,6 @@
+﻿  driver.cpp
+c:\users\preston\source\repos\game project\game project\driver.cpp(88): warning C4101: 'pass': unreferenced local variable
+c:\users\preston\source\repos\game project\game project\driver.cpp(111): warning C4101: 'temp': unreferenced local variable
+c:\users\preston\source\repos\game project\game project\driver.cpp(135): warning C4101: 'temp': unreferenced local variable
+c:\users\preston\source\repos\game project\game project\driver.cpp(158): warning C4101: 'temp': unreferenced local variable
+  Game project.vcxproj -> C:\Users\Preston\source\repos\Game project\Debug\Game project.exe
